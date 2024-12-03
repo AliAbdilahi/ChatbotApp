@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dent_E</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="ask_chatbot_string">Ask Chatbot</string>
+    <string name="frequently_asked_questions__string">Frequently Asked Questions:</string>
+    <string name="what_is_sti__string">What is STI?</string>
+    <string name="what_are_tools_for_sti__string">What are tools for STI?</string>
+    <string name="what_are_sti_codes__string">What are STI codes?</string>
+    <string name="what_cement_do_i_use_for_implant_crown_cementation__string">What cement do I use for implant crown cementation?</string>
+    <string name="what_is_procedure_for_implant_string">What is procedure for implant</string>
+    <string name="if_your_question_is_not_in_this_list_you_can_click_on_the_button_above_to_get_to_the_chatbot__thanks__string">If your Question is not in this list you can click on the button above to get to the chatbot, Thanks.</string>
+    <string name="text_here">text here</string>
+    <string name="you_will_see_text_here">you will see text here</string>
+</resources>
